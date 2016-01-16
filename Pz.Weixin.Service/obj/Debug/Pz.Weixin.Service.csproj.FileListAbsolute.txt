@@ -1,0 +1,16 @@
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\Pz.Weixin.Service.dll
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\Pz.Weixin.Service.pdb
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\Enyim.Caching.dll
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\ImageProcessor.dll
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\Macrosage.Utility.Core.V2.dll
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\Newtonsoft.Json.dll
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\Enyim.Caching.pdb
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\Enyim.Caching.xml
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\Gma.QrCodeNet.Encoding.xml
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\Macrosage.Utility.Core.V2.xml
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\bin\Debug\Newtonsoft.Json.xml
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\obj\Debug\Pz.Weixin.Service.dll
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\obj\Debug\Pz.Weixin.Service.pdb
+D:\Project\WeiXin\Macrosage.Wx\Pz.Weixin.Service\obj\Debug\Pz.Weixin.Service.csprojResolveAssemblyReference.cache
